@@ -1,0 +1,6 @@
+math
+obstacles
+numpy
+matplotlib
+scipy
+time
